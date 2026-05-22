@@ -23,7 +23,7 @@ repository               : "mattstevenson22/mattstevenson22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_picture.png"
   name             : "Matthew Stevenson"
   pronouns         : # example: "she/her"  
   bio              : "Interested in emergence, information theory and complexity; Literature; Anglo-Saxon England; Walking; Architecture; Localist; Sartorialist."
