@@ -16,4 +16,4 @@ Outside my research I enjoy walking in the English countryside, cooking Cantones
 
 ## News
 
-- **[Oct. 2026]** Started PhD research at NU London!
+- **[Oct. 2026]** Started PhD at NU London!
