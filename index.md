@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student at the Network Science Institute @ Northeastern University London, supervised by Prof. Giovanni Petri. I previously completed an MEng in Electronic and Information Engineering at Imperial College London.
+
+Outside my research I enjoy walking in the English countryside, cooking Cantonese food and reading books. I admire polymaths and try to keep my interests as wide as possible.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Information Theory:** information decompositions (synergy, redundancy)
+- **Complexity:** emergence, self-organisation, causality, higher-order systems
+- **Social Systems:** social structures, agency, collective action problems
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2026]** Started PhD research at NU London!
