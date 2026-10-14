@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a PhD student at the Network Science Institute @ Northeastern University London, supervised by Prof. Giovanni Petri. I previously completed an MEng in Electronic and Information Engineering at Imperial College London.
 
-Outside my research I enjoy walking in the English countryside, cooking Cantonese food and reading books. I admire polymaths of the present + past, and try to keep my interests as wide as possible.
+Outside my research I enjoy walking in the English countryside, cooking Cantonese food and reading books. I admire polymaths of the present and past, and try to keep my interests as wide as possible.
 
 ## Research Interests
 
